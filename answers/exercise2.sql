@@ -1,0 +1,1 @@
+SELECT * FROM StudentsDB.Enrolments INNER JOIN StudentsDB.Students on StudentsDB.Enrolments.StudentID = StudentsDB.Students.StudentID;
